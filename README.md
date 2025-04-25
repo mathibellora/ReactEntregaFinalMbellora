@@ -1,12 +1,37 @@
-# React + Vite
+# Bellota Libros
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bellota Libros es un e-commerce de una librería donde los usuarios pueden navegar por categorías, ver el detalle de los productos, agregar productos al carrito y realizar una orden de compra.
 
-Currently, two official plugins are available:
+## ✨ Funcionalidades principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Navegación por categorías.
+- Visualización de detalle de cada producto.
+- Carrito de compras con resumen de productos.
+- Generación de órdenes de compra almacenadas en Firebase.
+- Notificaciones visuales de confirmación de compra.
 
-## Expanding the ESLint configuration
+## 🚀 Scripts disponibles
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+En el proyecto se puede correr:
+
+- `npm run dev` – Ejecuta la aplicación en modo desarrollo.
+- `npm run build` – Crea una versión optimizada para producción.
+- `npm run preview` – Sirve la build de producción para previsualizarla.
+
+## 📦 Dependencias principales
+
+- **React** – [Documentación oficial](https://react.dev/)
+- **React Bootstrap** – [Documentación oficial](https://react-bootstrap.netlify.app/)
+- **React Router DOM** – [Documentación oficial](https://reactrouter.com/en/main)
+- **Firebase** – [Documentación oficial](https://firebase.google.com/)
+
+## 🛠️ Dependencias de desarrollo
+
+- **Vite** – [Documentación oficial](https://vitejs.dev/)
+- **ESLint** – [Documentación oficial](https://eslint.org/)
+- **Prettier** – [Documentación oficial](https://prettier.io/)
+
+---
+
+Este proyecto fue desarrollado como parte del proyecto "Bellota Libros".
+
